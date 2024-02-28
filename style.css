@@ -1,0 +1,31 @@
+* {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+     font-family: 'gilroy';
+}
+
+html, body {
+     height: 100%;
+     width: 100%;
+}
+
+
+.page1{
+    background-color: rgb(210, 179, 179);
+    height: 100vh;
+}.page2{
+    background-color: lightcyan;
+    display: flex;align-items: center;justify-content: center;
+    height: 100vh;
+}.page3{
+    background-color: lightseagreen;
+    height: 100vh;
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+    border-radius: 30px;
+}
